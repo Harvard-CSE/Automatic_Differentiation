@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autodiff30"
+version = "0.0.6"
+authors = [
+  {name="Amar Lea", email = "lea_amar@g.harvard.edu"},
+  {name = "Akoun Jason", email = "jasonakoun@g.harvard.edu"},
+  {name = "Attias Elie", email = "elieattias@g.harvard.edu"},
+  {name = "Collier Sam", email = "scollier1@g.harvard.edu" },
+  {name = "Rozenberg Raphael", email="raphaelrozenberg@g.harvard.edu" }
+]
+description = "Implementation of Auto-differentiation within the Harvard University AC207 Systems Development graduate course."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://code.harvard.edu/CS107/team30"

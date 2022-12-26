@@ -1,0 +1,11 @@
+ - Finishin and corretin package deployment - Lea
+ - Write user-level test script - Elie
+ - Ensuring dual number class supports all basic and comparison operators - Elie (DONE)
+ - Ensure all elementary mat functions are supported in the math section - Sam
+ - Vectorization of decorator class (and oter classes if required) - Rapael
+ - Extend test suite to cover all new cases and get badges and TML to work (also addin new tests for vector functions) - Jason and Elie
+ - Extend "overead" documentation - Lea
+ - Documentation broader impact statement and inculsivity - Sam
+ - Create group video - All
+ - Code optimization extension - Elie, Jason, Sam
+ - Code optimization tests (maybe) - Rapael
